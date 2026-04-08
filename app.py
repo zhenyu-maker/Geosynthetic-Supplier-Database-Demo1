@@ -11,7 +11,7 @@ st.set_page_config(page_title="Global Geosynthetics Intelligence Hub", layout="w
 
 # Product Options
 PRODUCT_OPTIONS = [
-    "Fiberglass Geogrid", "Woven PET Geogrid", "Knitted PET Geogrid", 
+    "PP Geogrid", "HDPE Geogrid","Fiberglass Geogrid", "Woven PET Geogrid", "Knitted PET Geogrid", 
     "Geocell", "Woven PET Geotextile", "Woven PP Geotextile", 
     "Silt Tape PP", "Geotextile PP NW", "Geomembrane", "Geomat", 
     "Drainage board", "GCL", "GCCM", "Geogrid composite", 
